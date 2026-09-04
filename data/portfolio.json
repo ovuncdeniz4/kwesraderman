@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "agent": "Esra Derman",
+    "brand": "Team Derman / Keller Williams Platin",
+    "office": {
+      "name": "KW Platin",
+      "address": "Akat Mah., Uğur Mumcu Cad., Mustafa Kemal Kültür Merkezi No: 8/5, 34335 Beşiktaş / İstanbul",
+      "phone": "+90 212 324 93 24"
+    },
+    "contacts": {
+      "esraDerman": "+90 533 378 29 36",
+      "barisSenlenBuyerSpecialist": "+90 532 317 10 71"
+    },
+    "note": "No public live inventory found as of 2026-09-04. Records below are reconstructed from Team Derman LinkedIn posts (2018–2019). Do not display as current listings without owner confirmation. Prices were never published.",
+    "livePublicSourcesChecked": [
+      "kwplatinkarma.com.tr agent directory",
+      "kw.com / kwplatin.kw.com",
+      "sahibinden.com",
+      "hepsiemlak.com",
+      "emlakjet.com",
+      "instagram.com/esradermankw"
+    ]
+  },
+  "listings": [
+    {
+      "id": "td-2019-baltalimani-yol-yalisi",
+      "slug": "sariyer-baltalimani-3-donum-yol-yalisi",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "yol yalısı",
+      "title": "Sarıyer Baltalimanı’nda 3 dönüm arsa içinde yol yalısı",
+      "description": "Çelik konstrüksiyon ile sağlamlaştırılmış, a’dan z’ye restore edilen yol yalısı. Kapalı alan brüt 900 m², asansör, 3 dönüm bahçede 166 meyve ağacı, ön ve yan cephe bahçe, 4 katlı bahçe tapuda dahil, en üstte Boğaz manzaralı çardak, 5 araçlık otopark. Tadilat halinde, tamamlanmış teslim planlanmış.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Sarıyer",
+        "neighborhood": "Baltalimanı"
+      },
+      "specs": {
+        "grossM2": 900,
+        "landDonum": 3,
+        "parking": 5,
+        "elevator": true,
+        "amenities": ["restore", "çelik konstrüksiyon", "bahçe", "çardak", "Boğaz manzarası"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/esra-derman-95675838_realtors-realestatesales-realestatenews-activity-6533989725286596608-4Qez",
+        "publishedAt": "2019-05-14"
+      },
+      "featured": true
+    },
+    {
+      "id": "td-2019-tarabya-villa-520",
+      "slug": "tarabya-sahile-yakin-520m2-villa",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "villa",
+      "title": "Tarabya’da sahile yakın doğa manzaralı müstakil villa",
+      "description": "Tam müstakil, önü açık yeşilliğe bakan villa. Havuz ve müştemilat, geniş bahçe, 2 araçlık kapalı otopark. 4 kat, 520 m², 6 oda + 2 salon, 5 banyo + 1 wc, 3 balkon + 1 büyük teras.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Sarıyer",
+        "neighborhood": "Tarabya"
+      },
+      "specs": {
+        "grossM2": 520,
+        "floors": 4,
+        "rooms": "6+2",
+        "bathrooms": 5,
+        "parking": 2,
+        "amenities": ["havuz", "müştemilat", "bahçe", "kapalı otopark", "teras"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/esra-derman-95675838_realtors-realestatesales-realestatenews-activity-6531044631566782464-JeQX",
+        "publishedAt": "2019-05-06"
+      },
+      "featured": true
+    },
+    {
+      "id": "td-2019-tarabya-villa-4plus1",
+      "slug": "tarabya-bahceli-havuzlu-mustakil-villa",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "villa",
+      "title": "Tarabya’da seçkin lokasyonda bahçeli havuzlu müstakil villa",
+      "description": "4+1, 5 banyo (4’ü ebeveyn), 3 araçlık kapalı otopark, evden bağımsız bir odalı banyolu müştemilat, çift giriş.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Sarıyer",
+        "neighborhood": "Tarabya"
+      },
+      "specs": {
+        "rooms": "4+1",
+        "bathrooms": 5,
+        "parking": 3,
+        "amenities": ["havuz", "müştemilat", "bahçe", "çift giriş", "ebeveyn banyosu"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://www.linkedin.com/posts/esra-derman-95675838_realtors-lükskonut-realestatenews-activity-6503180916607770624-Kxuq",
+        "publishedAt": "2019-02-18"
+      },
+      "featured": true
+    },
+    {
+      "id": "td-2018-sariyer-kosk-490",
+      "slug": "sariyer-cumhuriyet-deniz-manzarali-kosk-yol-yali-dairesi",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "yalı dairesi",
+      "title": "Sarıyer Cumhuriyet’te deniz manzaralı köşk yol yalı dairesi",
+      "description": "Köşke ait geniş bahçe ve havuz, garaj. 2 salon, 8 oda, 4 banyo, 490 m², 3 cepheli.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Sarıyer",
+        "neighborhood": "Cumhuriyet"
+      },
+      "specs": {
+        "grossM2": 490,
+        "rooms": "8+2",
+        "bathrooms": 4,
+        "amenities": ["deniz manzarası", "bahçe", "havuz", "garaj", "3 cephe"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://www.linkedin.com/posts/esra-derman-95675838_realtors-kellerwilliamsagent-kellerwilliamsplatin-activity-6432846568260403200-Sqiu",
+        "publishedAt": "2018-08-08"
+      },
+      "featured": true
+    },
+    {
+      "id": "td-2018-bebek-cevdetpasa",
+      "slug": "bebek-cevdet-pasa-yol-yali-dairesi",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "yalı dairesi",
+      "title": "Bebek Cevdet Paşa Caddesi’nde içi komple yapılı yol yalı dairesi",
+      "description": "Apartmana ait geniş bahçe (organik sebze). Girişte vestiyer/çamaşır odası (yardımcı veya misafir wc’ye çevrilebilir). Salon Boğaz manzaralı, açık mutfak. Ebeveyn odasında balkon ve banyo. Jeneratör.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Bebek",
+        "street": "Cevdet Paşa Caddesi"
+      },
+      "specs": {
+        "amenities": ["Boğaz manzarası", "bahçe", "açık mutfak", "ebeveyn banyosu", "jeneratör"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/esra-derman-95675838_bebek-cevdet-paşa-caddesi-üzerinde-i̇çi-activity-6432649401235173376-cM51",
+        "publishedAt": "2018-08-07"
+      },
+      "featured": true
+    },
+    {
+      "id": "td-2018-bebek-yol-yali-220",
+      "slug": "bebek-yenilenmis-yol-yali-dairesi-220m2",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "yalı dairesi",
+      "title": "Bebek’te yenilenmiş yol yalı dairesi",
+      "description": "220 m², 4+1, 3 banyo, 1 araçlık otopark, asansör.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Bebek"
+      },
+      "specs": {
+        "grossM2": 220,
+        "rooms": "4+1",
+        "bathrooms": 3,
+        "parking": 1,
+        "elevator": true
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://www.linkedin.com/posts/esra-derman-95675838_realtors-realestatesales-realestatenews-activity-6472798058307551232-rwr3",
+        "publishedAt": "2018-11-26"
+      },
+      "featured": false
+    },
+    {
+      "id": "td-2019-bebek-sahil-kiralik-160",
+      "slug": "bebek-sahilde-kiralik-esyali-daire",
+      "status": "archived",
+      "purpose": "rent",
+      "category": "residential",
+      "type": "daire",
+      "title": "Bebek sahilde kiralık eşyalı daire",
+      "description": "160 m², 4+1, 2 banyo, kombi, otopark.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Bebek"
+      },
+      "specs": {
+        "grossM2": 160,
+        "rooms": "4+1",
+        "bathrooms": 2,
+        "amenities": ["eşyalı", "kombi", "otopark"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/baris-senlen-209b11129_realtors-realestatesales-realestatenews-activity-6513751582193123329-vh6z",
+        "publishedAt": "2019-03-19"
+      },
+      "featured": false
+    },
+    {
+      "id": "td-2019-rumeli-hisari-185",
+      "slug": "rumeli-hisari-bogaz-manzarali-yali-dairesi",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "yalı dairesi",
+      "title": "Rumeli Hisarı’nda Boğaz’ı kucaklayan yalı dairesi",
+      "description": "185 m², 4+1, 1 banyo + 1 tuvalet. Çamaşır odası banyoya dönüştürülebilir. Asansör ve otopark.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Sarıyer",
+        "neighborhood": "Rumeli Hisarı"
+      },
+      "specs": {
+        "grossM2": 185,
+        "rooms": "4+1",
+        "bathrooms": 1,
+        "elevator": true,
+        "amenities": ["Boğaz manzarası", "otopark"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/esra-derman-95675838_realtors-realestatesales-realestatenews-activity-6486207846437523456-TywJ",
+        "publishedAt": "2019-01-02"
+      },
+      "featured": false
+    },
+    {
+      "id": "td-2019-naile-sultan-kiralik",
+      "slug": "naile-sultan-bogaz-manzarali-cati-dubleksi-kiralik",
+      "status": "archived",
+      "purpose": "rent",
+      "category": "residential",
+      "type": "dubleks",
+      "title": "Naile Sultan’da Boğaz manzaralı kiralık çatı dubleksi",
+      "description": "3,5+1, 200 m², 3 banyo + 1 tuvalet, yardımcı odası ayrı banyolu, çamaşır ve giyinme odası, güvenlikli site, otopark.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Naile Sultan"
+      },
+      "specs": {
+        "grossM2": 200,
+        "rooms": "3.5+1",
+        "bathrooms": 3,
+        "amenities": ["Boğaz manzarası", "yardımcı odası", "giyinme odası", "güvenlikli site", "otopark"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://www.linkedin.com/posts/can-derman-80411062_realtors-realestatesales-realestatenews-activity-6503897674914230272-SGS6",
+        "publishedAt": "2019-02-20"
+      },
+      "featured": false
+    },
+    {
+      "id": "td-2019-ulus-cati-dubleks-406",
+      "slug": "ulus-koru-icinde-bogaz-manzarali-cati-dubleksi",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "dubleks",
+      "title": "Ulus’ta koru içinde Boğaz manzaralı çatı dubleksi",
+      "description": "5+1, 406 m², kombi, içi bakımlı, sitenin şerefiyeli dairesi. Her odada banyo, 1 çalışma odası, giyinme odası, sauna, mutfak servis kapısı, çatı tavan 2,46 m, büyük teras + 4 balkon. Güvenlikli site, açık/kapalı otopark, yüzme havuzu, tenis kortu.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Ulus"
+      },
+      "specs": {
+        "grossM2": 406,
+        "rooms": "5+1",
+        "amenities": ["Boğaz manzarası", "sauna", "teras", "havuz", "tenis kortu", "güvenlikli site", "kapalı otopark"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/baris-senlen-209b11129_realtors-realestatesales-realestatenews-activity-6501389989845168128-2pOj",
+        "publishedAt": "2019-02-13"
+      },
+      "featured": true
+    },
+    {
+      "id": "td-2019-etiler-camlik-145",
+      "slug": "etiler-camlik-doga-manzarali-daire",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "daire",
+      "title": "Etiler Çamlık’ta doğa manzaralı daire",
+      "description": "3+1, 145 m², ebeveyn banyolu, asansör, bakımlı, merkezi ısınma, 6 katlı binanın 1. katı.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Etiler",
+        "street": "Çamlık"
+      },
+      "specs": {
+        "grossM2": 145,
+        "rooms": "3+1",
+        "floor": 1,
+        "elevator": true,
+        "amenities": ["doğa manzarası", "ebeveyn banyosu", "merkezi ısınma"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/baris-senlen-209b11129_realtors-realestatesales-realestatenews-activity-6498463129045864448-JG-o",
+        "publishedAt": "2019-02-05"
+      },
+      "featured": false
+    },
+    {
+      "id": "td-2019-park-maya-dubleks",
+      "slug": "park-maya-4plus1-ara-kat-dubleks",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "dubleks",
+      "title": "Park Maya Sitesi’nde 4+1 ara kat dubleks",
+      "description": "İlk kat: salon, balkon, mutfak, yardımcı odası, banyo, depo. İkinci kat: 4. oda yıkılarak 3 büyük oda; ortak banyo + balkon; ebeveyn banyosu; giyinme odası. Tüm odalar aydınlık. 2 kapalı otopark, ~10 m² depo. Aidata ısınma dahil.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "Etiler / Akatlar",
+        "complex": "Park Maya"
+      },
+      "specs": {
+        "rooms": "4+1",
+        "parking": 2,
+        "amenities": ["ara kat dubleks", "giyinme odası", "yardımcı odası", "kapalı otopark", "depo"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/baris-senlen-209b11129_realtors-realestatesales-realestatenews-activity-6518826323706671104-Sn34",
+        "publishedAt": "2019-04-02"
+      },
+      "featured": false
+    },
+    {
+      "id": "td-2018-levent-oyak-130",
+      "slug": "levent-oyak-sitesi-3plus1-kentsel-donusum",
+      "status": "archived",
+      "purpose": "sale",
+      "category": "residential",
+      "type": "daire",
+      "title": "4. Levent Konaklar OYAK Sitesi’nde 3+1 yatırım dairesi",
+      "description": "Kentsel dönüşüm kararlı, 1. kat, 130 m², 3+1, ebeveyn banyolu, cadde ve metroya yakın, pazar/okul/AVM yürüme mesafesi, kat mülkiyetli.",
+      "location": {
+        "city": "İstanbul",
+        "district": "Beşiktaş",
+        "neighborhood": "4. Levent",
+        "complex": "OYAK Sitesi"
+      },
+      "specs": {
+        "grossM2": 130,
+        "rooms": "3+1",
+        "floor": 1,
+        "amenities": ["kentsel dönüşüm", "ebeveyn banyosu", "kat mülkiyeti"]
+      },
+      "price": { "onRequest": true },
+      "agent": { "name": "Esra Derman", "phone": "+90 533 378 29 36" },
+      "source": {
+        "url": "https://tr.linkedin.com/posts/esra-derman-95675838_i̇stanbul-beşiktaş-4-levent-konaklarda-activity-6397426875429462016-2HW4",
+        "publishedAt": "2018-05-02"
+      },
+      "featured": false
+    }
+  ]
+}
