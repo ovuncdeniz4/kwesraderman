@@ -45,20 +45,27 @@ Each property:
 - `source`: url, publishedAt
 - `featured`
 
-## Routes (planned)
+## Routes
 
 - `/` featured + search
 - `/satilik`, `/kiralik`
 - `/portfoy/[slug]`
-- `/hakkimizda`, `/iletisim`
-- later: `/blog`, `/en`
+- `/hakkimizda`, `/iletisim`, `/kvkk`
+- `/admin` listing CRUD, `/admin/login`
+
+## Admin
+
+- Cookie session (`AUTH_SECRET`, `ADMIN_EMAIL`, `ADMIN_PASSWORD`)
+- Create / edit / delete listings, photo upload, status: draft | live | archived
+- Public site queries `status = live` only
 
 ## Scale / ops
 
-- Start static JSON in `data/` (offline-capable, no CMS lock-in).
-- Add admin or headless CMS when listing volume and photo uploads grow.
-- Keep TR-first; EN + currency conversion are Phase 2.
-- Enterprise: KVKK pages, appointment form, no scraped competitor photos.
+- Prisma + SQLite in `prisma/dev.db` (swap to Postgres via `DATABASE_URL`)
+- Uploads in `public/uploads`
+- TR-first; EN + currency conversion are Phase 2
+- KVKK page + inquiry form
+- Footer includes KW independent-office statement
 
 ## Do not
 
