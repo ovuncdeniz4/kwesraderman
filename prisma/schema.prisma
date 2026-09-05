@@ -2,9 +2,11 @@ generator client {
   provider = "prisma-client-js"
 }
 
+// Neon on Vercel: DATABASE_URL = pooled Prisma URL, DIRECT_URL = non-pooling.
 datasource db {
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
 }
 
 model Listing {
@@ -39,6 +41,9 @@ model Listing {
   createdAt      DateTime @default(now())
   updatedAt      DateTime @updatedAt
   images         ListingImage[]
+
+  @@index([status, purpose])
+  @@index([district])
 }
 
 model ListingImage {
@@ -47,6 +52,8 @@ model ListingImage {
   listing   Listing @relation(fields: [listingId], references: [id], onDelete: Cascade)
   url       String
   sortOrder Int     @default(0)
+
+  @@index([listingId])
 }
 
 model Inquiry {
