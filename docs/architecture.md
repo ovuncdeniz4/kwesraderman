@@ -63,6 +63,7 @@ Each property:
 
 - Prisma 6 + Neon Postgres (`DATABASE_URL` pooled, `DIRECT_URL` non-pooling)
 - Vercel build runs `prisma generate && prisma migrate deploy && next build`
+- Public listing queries catch DB errors and show the empty-portfolio state (do not 500 the marketing pages)
 - Uploads in `public/uploads` (ephemeral on Vercel serverless; Blob is a later step)
 - TR-first; EN + currency conversion are Phase 2
 - KVKK page + inquiry form
