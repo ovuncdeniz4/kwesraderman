@@ -26,9 +26,9 @@ export function Header() {
     >
       <div className="mx-auto flex max-w-7xl items-center justify-between gap-6 px-5 py-5 md:px-8">
         <Link href="/" className="flex items-center gap-5" onClick={() => setOpen(false)}>
-          <EsraMark variant={onHero ? "light" : "dark"} className="h-11 w-auto" />
+          <EsraMark variant={onHero ? "light" : "dark"} />
           <span className={`hidden h-8 w-px md:block ${onHero ? "bg-white/25" : "bg-line"}`} />
-          <KwMark variant={onHero ? "light" : "dark"} className="hidden h-9 w-auto md:block" />
+          <KwMark variant={onHero ? "light" : "dark"} className="hidden md:flex" />
         </Link>
 
         <nav className="hidden items-center gap-8 text-[12px] tracking-[0.22em] uppercase lg:flex">

@@ -7,8 +7,8 @@ export function Footer() {
     <footer className="mt-auto bg-ink text-ivory">
       <div className="mx-auto grid max-w-7xl gap-10 px-5 py-16 md:grid-cols-4 md:px-8">
         <div className="space-y-5 md:col-span-2">
-          <EsraMark variant="light" className="h-12 w-auto" />
-          <KwMark variant="light" className="h-10 w-auto" />
+          <EsraMark variant="light" />
+          <KwMark variant="light" />
           <p className="max-w-md text-sm leading-7 text-stone">
             {SITE.tagline}. Bebek, Etiler, Ulus ve Sarıyer Boğaz hattında satılık
             ve kiralık lüks konut danışmanlığı.

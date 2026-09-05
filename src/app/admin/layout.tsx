@@ -7,8 +7,8 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       <div className="border-b border-line bg-paper">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
           <Link href="/admin" className="flex items-center gap-4">
-            <EsraMark className="h-9 w-auto" />
-            <KwMark className="hidden h-8 w-auto sm:block" />
+            <EsraMark />
+            <KwMark className="hidden sm:flex" />
           </Link>
           <div className="flex items-center gap-4 text-xs tracking-[0.16em] uppercase">
             <Link href="/">Siteye dön</Link>
