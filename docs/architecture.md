@@ -61,8 +61,9 @@ Each property:
 
 ## Scale / ops
 
-- Prisma + SQLite in `prisma/dev.db` (swap to Postgres via `DATABASE_URL`)
-- Uploads in `public/uploads`
+- Prisma 6 + Neon Postgres (`DATABASE_URL` pooled, `DIRECT_URL` non-pooling)
+- Vercel build runs `prisma generate && prisma migrate deploy && next build`
+- Uploads in `public/uploads` (ephemeral on Vercel serverless; Blob is a later step)
 - TR-first; EN + currency conversion are Phase 2
 - KVKK page + inquiry form
 - Footer includes KW independent-office statement
