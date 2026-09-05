@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 48" role="img" aria-label="Keller Williams Platin">
+  <rect width="48" height="48" fill="#CE011F"/>
+  <text x="24" y="32" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700">KW</text>
+  <text x="60" y="22" fill="#F6F1E8" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">KELLER WILLIAMS</text>
+  <text x="60" y="40" fill="#D8D2C6" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="3">PLATIN</text>
+</svg>
